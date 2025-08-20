@@ -45,6 +45,15 @@
 
 ![Modelo entidad relación](erd.png)
 
+# Flujo aplicación
+
+![001](Tramites_img001.png)
+![002](Tramites_img002.png)
+![003](Tramites_img003.png)
+![004](Tramites_img004.png)
+![005](Tramites_img005.png)
+![006](Tramites_img006.png)
+
 
 
 
